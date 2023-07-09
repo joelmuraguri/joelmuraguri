@@ -6,7 +6,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
- - :zap: I love writing android code and building cool stuff.
+ - :zap: I am a passionate software engineer with a strong interest in kotin and native android development.
+ - :zap: I write kotlin code and building cool android stuff.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelmuraguri&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmuraguri&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Connect with me 
 <div id="badges">
