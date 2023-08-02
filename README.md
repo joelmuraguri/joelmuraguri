@@ -6,6 +6,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+- I am an enthusiastic and results-driven Android developer with a deep passion for creating innovative and user-
+centric mobile applications. I'm eager to contribute my skills and collaborate on exciting projects.
+- As a lifelong learner, I actively seek opportunities to expand my expertise and stay ahead in the ever-evolving
+world of mobile technology. I am open to feedback and always eager to take on new challenges that will sharpen
+my skills.
  - :zap: I am a passionate software engineer with a strong interest in kotlin and native android development.
  - :zap: I write kotlin code and building cool android stuff.
 
