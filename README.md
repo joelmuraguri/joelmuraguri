@@ -11,8 +11,6 @@ centric mobile applications. I'm eager to contribute my skills and collaborate o
 - As a lifelong learner, I actively seek opportunities to expand my expertise and stay ahead in the ever-evolving
 world of mobile technology. I am open to feedback and always eager to take on new challenges that will sharpen
 my skills.
- - :zap: I am a passionate software engineer with a strong interest in kotlin and native android development.
- - :zap: I write kotlin code and building cool android stuff.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelmuraguri&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmuraguri&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
