@@ -1,12 +1,9 @@
 
 
 <h1>
-  Ssup!
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelmuraguri&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmuraguri&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Let's connect :  
 <div id="badges">
